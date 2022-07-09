@@ -8,7 +8,7 @@ hello git
 hello git
 hello git
 hello git
-hello git
+hello git 我是一个推送实验
 hello git
 hello git
 hello git
